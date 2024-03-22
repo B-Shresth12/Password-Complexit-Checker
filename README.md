@@ -2,7 +2,7 @@
 <h2>PRODIGY INFOTECH</h2><br />
 TASK 3: Password Complexit Checker<br />
 
-# PRODIGY_CS_02
+# PRODIGY_CS_03
 <h2>PRODIGY INFOTECH</h2><br />
 TASK 2: Pixel Manipulation for Image Encryption<br />
 
