@@ -1,27 +1,27 @@
-# PRODIGY_CS_03
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 3: Password Complexit Checker<br />
+# Password Complexity Checker 🔒  
 
-# PRODIGY_CS_03
-<h2>PRODIGY INFOTECH</h2><br />
-TASK 2: Pixel Manipulation for Image Encryption<br />
+Develop a program to **check the complexity of passwords** based on specific criteria. The tool evaluates passwords to ensure they meet security standards.
 
-Develop a simple image encryption tool using pixel manipulation. You ccan perform operations like swapping pixel values or applying a basic mathemathical operation to each pixel. Allow users to encrypt and decrypt images<br><br>
+---
 
-<h3>Observations:</h3>
-<ol>
-  <li>Password complexity is checked keeping following things on mind:
-    <ol>
-        <li>Length</li>
-        <li>Presence of uppercase letteres</li>
-        <li>Presenece of lowercase letters</li>
-        <li>Presence of Numbers</li>
-        <li>Presence of Special Characters</li>
-    </ol>
-  </li>
-</ol>
-<h3>Outcome:</h3>
-<ul>
-  <li>Learned how password can be cracked</li>
-  <li>Learned how common password can lead to quicker access of credentials by a hacker</li>
-</ul>
+### 📌 Observations:
+
+Password complexity is evaluated by considering the following:  
+
+1. **Length** 📏  
+2. **Presence of Uppercase Letters** 🔠  
+3. **Presence of Lowercase Letters** 🔡  
+4. **Presence of Numbers** 🔢  
+5. **Presence of Special Characters** ✨  
+
+---
+
+### 🎯 Outcome:
+
+- Enhanced understanding of password security principles 🔐.  
+- Gained insights into **validation techniques**.  
+- Learned how to implement checks for different character types 🔎.
+
+---
+
+Secure your accounts with strong passwords! 🚀  
